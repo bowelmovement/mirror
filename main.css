@@ -1,0 +1,56 @@
+body { 
+	background: #f7f4df url(img/blossomm_2x2.jpg) fixed 0px 0px;
+	margin: 0px;
+	}
+
+p, td {
+	font-family: verdana, arial, sans-serif;
+	font-size: 10px;
+	color: #546D45;
+	line-height: 19px;
+	text-indent: 2.0em;
+	}
+
+b {
+	color: #43a408;
+	text-transform: uppercase;
+	}
+	
+a:link, a:visited {
+	font-weight: none;
+	text-decoration: none;
+	color: #d28ba0;
+	background: #fbe8e3;
+	}
+
+a:hover {
+	color: #a69386;
+	/* background: transparent url(img/small.jpg) repeat 0% 0%; */
+	background: #f3dcd0;
+	}
+	}
+
+.main_table {
+	margin-top: 10px;
+	border-width: 0px;
+	border-style: none;
+	border-collapse: collapse;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div {
+	margin-right: 10px;
+}
+
+small {
+	font-family: verdana, courier new, sans-serif;
+	font-size: 10px;
+	/* letter-spacing: 2px; */
+	filter:alpha(opacity=25);opacity:.25;
+}
+
+i {
+	filter:alpha(opacity=60);opacity:.60;
+}
